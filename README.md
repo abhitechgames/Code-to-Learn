@@ -1,5 +1,9 @@
-# Code-to-Learn
-Code to Learn ! Simple Web Application for Beginners
+# Code-to-Learn!
+Simple Web Application for Beginners
+
+[Asset Store](https://assetstore.unity.com/packages/2d/gui/icons/magical-potions-and-effects-pack-196598) | [GitHub](https://github.com/abhitechgames) | [Support Email](mailto:atgstudiosinfo@gmail.com)
+
+#### Made by ATG Studios aka AbhiTechGames
 
 Web Application Link : https://abhitechgames.itch.io/code-to-learn
 
